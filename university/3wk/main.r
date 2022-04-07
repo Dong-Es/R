@@ -54,3 +54,7 @@ y
 
 seq(from=1,to=10,by=2)
 seq(1,10,by=2)
+
+seq(0,1,by=0.2)
+seq(0,1,length=101)
+
